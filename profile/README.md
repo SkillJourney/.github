@@ -1,10 +1,6 @@
-# Welcome to 
-
 <div align="center">
   <img width="300" src="logo.png"/>
-</di>
-
-# SkillJourney
+</div>
 
 SkillJourney is a platform designed to connect recruiters with job seekers, offering simple tools to post, search for, and manage professional opportunities.
 
